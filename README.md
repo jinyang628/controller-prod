@@ -1,6 +1,6 @@
 # Controller
 
-**[Controller](https://usecontroller.com/)** is the Open-source ChatGPT that interacts with all your third-party applications! It serves as a Unified Platform across your tools such as Slack, Linear, Google Suite, etc.
+**[Controller](https://controller-docs.vercel.app/)** is the Open-source ChatGPT that interacts with all your third-party applications! It serves as a Unified Platform across your tools such as Slack, Linear, Google Suite, etc.
 
 1. You can talk to a single application (e.g. "Get me all linear tickets that are owned by Mike, and set me as the owner")
 
